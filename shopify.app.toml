@@ -3,7 +3,7 @@
 client_id = "57b94e91b06d224021564ea6756e8251"
 name = "wishlist-01"
 handle = "wishlist-01"
-application_url = "https://wishlist-01-5822be6dd7e8.herokuapp.com/"
+application_url = "https://wishlist-01-5822be6dd7e8.herokuapp.com"
 embedded = true
 
 [build]
